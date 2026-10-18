@@ -1,16 +1,15 @@
-## Hi there 👋
+  
+Data analyst and full stack developer with a passion for turning data into visual narratives that create actionable insights.
 
-<!--
-**CompiledCodex/CompiledCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Data Analytics:** SQL · Python · R · Excel · Power BI · Data Visualization · Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Web Development:** JavaScript · PHP · HTML · CSS · React · Angular · Next.js · Node.js 
+
+**GIS & Geospatial Analysis:** ArcGIS · QGIS · Spatial Analysis · Geospatial Data
+
+**Additional Technologies:** C++ · Java · C# · Unity 
+
+
+
